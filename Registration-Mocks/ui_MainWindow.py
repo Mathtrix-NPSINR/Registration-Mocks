@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ################################################################################
-## Form generated from reading UI file 'MainWindowniNoqG.ui'
+## Form generated from reading UI file 'MainWindowdVgAtK.ui'
 ##
 ## Created by: Qt User Interface Compiler version 6.5.1
 ##
@@ -126,7 +126,7 @@ class Ui_MainWindow(object):
     # setupUi
 
     def retranslateUi(self, MainWindow):
-        MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
+        MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"Mathtrix Registration Mocks", None))
         self.welcome_label.setText(QCoreApplication.translate("MainWindow", u"Mathtrix Registration Mocks", None))
         self.qr_code_registration_button.setText(QCoreApplication.translate("MainWindow", u"QR Code Registration", None))
         self.api_key_label.setText(QCoreApplication.translate("MainWindow", u"API Key:", None))
